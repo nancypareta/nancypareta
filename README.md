@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am NANCY PARETA👋
 
 <!--
 **nancypareta/nancypareta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨‍🎓 Mtech Scholar in Computer Science and Engineering from Punjab Engineering College (Class of 2021)
+
