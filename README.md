@@ -66,9 +66,6 @@
 </table>
 
 ### I'm currently learning :open_book:
-- **Competitive Coding**
-    - Dynamic Programming
-    
 
  - **Data Science**
    - Machine Learning
@@ -85,7 +82,7 @@
 <a href="https://github.com/nancypareta">
   <img align="left" alt="Nancy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/nancy.pareta/">
+<a href="https://www.instagram.com/nancy.pareta">
   <img align="left" alt="Nancy's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.hackerrank.com/noobcoder96">
