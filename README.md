@@ -1,5 +1,5 @@
 ### Hello World, I'm Nancy Pareta :purple_heart:
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+<img alt="GIF" src="https://tenor.com/view/girl-hacker-hacker-girl-code-code-girl-gif-16793279" width = 200/>
 
 -----
 #### I am an individual with a keen eye for data and it's Engineering 
