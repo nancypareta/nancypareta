@@ -36,6 +36,17 @@
  </tr>
 </tbody>
 </table>
+### <i>About</i>
+
+-  **Learning :** Data Engineering  |  Data Science | Programming:fire:	
+-  **Languages :** Python, C++ , Java💻
+-  **Hobbies :**  Writing📕 & Music :headphones:
+-  **Fact :** It's never late to get started 🎯:heart:
+
+<p align="center">
+  <img alt="Nancy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nancypareta&show_icons=true&theme=radical">
+</p>
+
 
 - **Data Science**
   - Data Visualization
