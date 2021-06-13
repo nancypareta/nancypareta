@@ -7,7 +7,7 @@
 
 -----
 
-### I have completed Masters in Computer Science from PEC and Bachelors in Technology From Delhi University
+## I have completed Masters in Computer Science from PEC and Bachelors in Technology From Delhi University
 <img alt="GIF" src="https://media.giphy.com/media/DFdKG77zhQgyQ/giphy.gif" width = 100/>
 
 
