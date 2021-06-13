@@ -53,11 +53,11 @@
 
 ### I'm currently learning :open_book:
 
-- **Data Science**
+**Data Science**
   - Data Visualization
   - Data Analysis
  <table>
-<tbody>
+ <tbody>
  <tr>
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
@@ -68,6 +68,7 @@
 </td>
 </tr>
 </tbody>
+</table>
     
 
 <br> <br>
