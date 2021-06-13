@@ -48,6 +48,11 @@
 </p>
 
 
+
+</table>
+
+### I'm currently learning :open_book:
+
 - **Data Science**
   - Data Visualization
   - Data Analysis
@@ -63,13 +68,6 @@
 </td>
 </tr>
 </tbody>
-</table>
-
-### I'm currently learning :open_book:
-
- - **Data Science**
-   - Machine Learning
-   - Artificial Intelligence
     
 
 <br> <br>
