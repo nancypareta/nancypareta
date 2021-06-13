@@ -3,6 +3,7 @@
 
 -----
 #### I am an individual with a keen eye for data and it's Engineering 
+<img alt="GIF" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width = 200/>
 
 ### My skills 👩‍💻:
 - **Competitive Coding**
