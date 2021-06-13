@@ -3,7 +3,15 @@
 
 -----
 #### I am an individual with a keen eye for data and it's Engineering 
-<img alt="GIF" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width = 200/>
+<img alt="GIF" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width = 100/>
+
+-----
+
+### I have completed Masters in Computer Science from PEC and Bachelors in Technology From Delhi University
+<img alt="GIF" src="https://media.giphy.com/media/DFdKG77zhQgyQ/giphy.gif" width = 100/>
+
+
+-----
 
 ### My skills 👩‍💻:
 - **Competitive Coding**
